@@ -1,4 +1,4 @@
-# TensorFlow in Practice (Specialization Course by ![deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice?))
+# TensorFlow in Practice (Specialization Course by [deeplearning.ai](https://www.coursera.org/specializations/tensorflow-in-practice?))
 
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 2. Convolution Neural Networks in TensorFlow
